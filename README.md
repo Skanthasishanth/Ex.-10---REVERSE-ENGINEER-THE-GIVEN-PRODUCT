@@ -34,6 +34,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 
+
+### Input:
+
+![sfsdlfskd](https://github.com/user-attachments/assets/a0c7fd17-c9c3-4c95-9a9e-08732c7420d9)
+
 ### Output:
 
 ![exp04a](https://github.com/user-attachments/assets/462bedd2-1a39-4ab0-9b3f-c5bfce566f0b)
